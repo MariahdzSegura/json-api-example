@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Some Roses",
+      "price": 10.99,
+      "description": "Product description 1",
+      "image": "https://i.pinimg.com/736x/32/0f/3a/320f3a7b8af1721bb5d034024232d13b.jpg"
+    },
+    {
+      "name": "Some Flowers",
+      "price": 15.99,
+      "description": "Product description 2",
+      "image": "https://i.pinimg.com/736x/a5/89/9f/a5899f1ce0052c374115e634a860c604.jpg"
+    },
+    {
+      "name": "Some Summer",
+      "price": 8.99,
+      "description": "Product description 3",
+      "image": "https://i.pinimg.com/736x/f0/16/cf/f016cf50c7a1a8794fc1c1038f5f3239.jpg"
+    },
+    {
+      "name": "Some Sunflower",
+      "price": 12.99,
+      "description": "Product description 4",
+      "image": "https://i.pinimg.com/736x/ae/68/e1/ae68e1e3d133fa8e926f158c08fbb076.jpg"
+    },
+    {
+      "name": "Some Bee",
+      "price": 9.99,
+      "description": "Product description 5",
+      "image": "https://i.pinimg.com/736x/4a/4b/6/4a4bb69122712636bafbe79617fe7dbb.jpg"
+    },
+    {
+      "name": "Some Butterfly",
+      "price": 11.99,
+      "description": "Product description 6",
+      "image": "https://i.pinimg.com/736x/49/8a/b4/498ab44080c3c56507bf06e8bcb824de.jpg"
+    }
+  ]
